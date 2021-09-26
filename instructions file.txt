@@ -1,0 +1,8 @@
+Softwares required:
+Atmel studio
+Proteus
+Steps to follow
+download hex file and proteus file
+Open the project file in proteus
+Double click the microcontoller and add the hex as source file
+Run
